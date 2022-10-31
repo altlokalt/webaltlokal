@@ -1,0 +1,7 @@
+Login to server:
+ssh -i "keypair-north-altlokal.pem" ubuntu@ec2-16-170-241-119.eu-north-1.compute.amazonaws.com
+pass: WfbCxucy6Cnfmp9
+user: altlokal 
+
+
+min: ssh -i "eu-north-1a.pem" ubuntu@ec2-13-51-198-22.eu-north-1.compute.amazonaws.com
